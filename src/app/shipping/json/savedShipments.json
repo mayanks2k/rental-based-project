@@ -1,0 +1,12 @@
+[
+    {
+      "id": "1",
+      "trackingNumber": "XYZ123456789",
+      "carrier": "FedEx",
+      "destination": "New York, NY",
+      "shipmentDate": "2024-07-15",
+      "expectedDelivery": "2024-07-20",
+      "status": "In Transit"
+    }
+  ]
+  

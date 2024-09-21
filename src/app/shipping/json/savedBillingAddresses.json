@@ -1,0 +1,42 @@
+[
+    {
+      "id": "1",
+      "fullName": "John Doe",
+      "companyName": "Doe Enterprises",
+      "email": "john.doe@example.com",
+      "phoneNumber": "+1234567890",
+      "billingAddressLine1": "123 Main Street",
+      "billingAddressLine2": "Suite 4B",
+      "city": "Metropolis",
+      "state": "New York",
+      "postalCode": "10001",
+      "country": "United States"
+    },
+    {
+      "id": "2",
+      "fullName": "Jane Smith",
+      "companyName": "Smith & Co",
+      "email": "jane.smith@example.com",
+      "phoneNumber": "+0987654321",
+      "billingAddressLine1": "456 Elm Street",
+      "billingAddressLine2": "",
+      "city": "Gotham",
+      "state": "California",
+      "postalCode": "90210",
+      "country": "United States"
+    },
+    {
+      "id": "3",
+      "fullName": "Raj Patel",
+      "companyName": "Patel Industries",
+      "email": "raj.patel@example.com",
+      "phoneNumber": "+919876543210",
+      "billingAddressLine1": "789 Maple Avenue",
+      "billingAddressLine2": "Apt 12",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postalCode": "400001",
+      "country": "India"
+    }
+  ]
+  

@@ -1,0 +1,348 @@
+{
+  "car_TERMS_AND_CONDITIONS": {
+    "Introduction": "This document is an electronic record as defined by the Information Technology Act 2000 and its associated rules. It has been created using a computer system and does not require any physical or digital signatures. This electronic record is published in accordance with the relevant provisions of the Information Technology Act 2000 and the applicable rules.",
+    "1. Electronic Media": {
+      "1.1": "Please be aware that (a) the domain name https://car-smart.com (the “Website”); and (b) the software application designed for use on mobile devices such as smartphones and tablets as well as on desktop or laptop computers (the “Application”) (collectively referred to as the “Electronic Media” or the “Platform”) are owned managed and operated by car Mobility Private Limited a private limited company incorporated under the laws of India either directly or through its subsidiaries or affiliates (hereinafter collectively referred to as the “Company”).",
+      "1.2": "car Mobility Tech Private Limited (referred to here as “car”) is a subsidiary of the Company and is licensed under applicable law to operate as an aggregator."
+    },
+    "2. Legal Contract": {
+      "2.1": "These terms and conditions of use (the “Terms of Use”) regulate the use and access of the Electronic Media and the utilization of the Services (defined below) available on the Electronic Media. This constitutes a legal agreement (the “Agreement”) between car and you (the “User(s)”). By continuing to use access register for or avail yourself of the Services offered by car as an aggregator on the Platform and by browsing the Electronic Media you agree to comply with and be bound by these Terms of Use.",
+      "2.2": "In addition to the aforementioned your use and access to the Electronic Media and the Services provided by car through the Electronic Media are subject to the guidelines rules privacy policy terms conditions and/or other applicable policies and procedures (the “car Policies”) relevant to such Services which shall be posted on the Electronic Media from time to time. Unless otherwise specified in any particular car Policy the car Policies are considered to be incorporated into these Terms of Use and shall be regarded as an integral part hereof. Therefore by agreeing whether explicitly or implicitly to be bound by the Terms of Use you also agree to comply with the Company Policies as they may be updated amended or revised from time to time.",
+      "2.3": "If you do not agree with these Terms of Use please refrain from accessing or using the Electronic Media associated with car or our Service (defined later) by any other means.",
+      "2.4": "car reserves the right to modify or replace in whole or in part any of these Terms of Use or to modify suspend block discontinue or restrict your access to all or any feature of the Service or Electronic Media at any time.",
+      "2.5": "car is not obligated to notify the User of any changes made to these Terms of Use. The updated Terms of Use will be accessible on the Electronic Media. Users are encouraged to visit the Website and/or Application to review the most current Terms of Use. Users can determine when car last updated the Terms of Use by referring to the 'Last Updated' date above. It is the User’s responsibility to periodically check these Terms of Use for any changes. car may require Users to consent to the updated Terms of Use in a specified manner before further use of the Electronic Media and the Services. If no separate consent is required the User’s continued use of the Electronic Media following changes to the Terms of Use constitutes acceptance of those changes. The User’s use of the Electronic Media and the Services is governed by the most current version of the Terms of Use available on the Electronic Media at the time of use."
+    },
+    "3. Definitions": {
+      "content": "All terms defined and capitalized in these Terms of Use will have the meanings assigned to them as follows:",
+      "3.1": "Aggregator means a person who holds a license under Applicable Law as a digital intermediary or marketplace connecting passengers with drivers for transportation purposes.",
+      "3.2": "Account refers to the user account created on the Electronic Media for accessing the Services provided by car.",
+      "3.3": "Additional Fee means any additional charges incurred while using the Services for the ride from Third Party Providers including charges for additional services such as Wi-Fi services services from partner service providers food items water beverages etc.",
+      "3.4": "Applicable Law(s) includes all relevant statutes enactments legislative acts laws ordinances rules regulations notifications guidelines policies directions directives and orders issued by any governmental authority tribunal or court of India including among others the Motor Vehicles Act 1988 and the Motor Vehicle Aggregator Guidelines 2020.",
+      "3.5": "Application refers to the mobile application 'car' updated by car from time to time.",
+      "3.6": "car or us or we or our refers to car Mobility Tech Private Limited a company incorporated under the provisions of the Companies Act 2013 with its registered office at 15th Floor A Block Westgate Business Bay S. G. Road Ahmedabad City Gujarat India. This term includes all its successors affiliates and permitted assigns unless contextually or meaningfully repugnant.",
+      "3.7": "Cancellation Fee means the fee charged for all cancelled rides as notified to the User through the booking method in accordance with Clause 11 of the cancellation terms.",
+      "3.8": "City of Operation refers to a city where Users avail and drivers render transportation services respectively.",
+      "3.9": "Company refers to car Mobility Private Limited a company incorporated under the provisions of the Companies Act 2013 with its corporate office at A-2 12th Floor Palladium Corporate Road Prahladnagar Ahmedabad – 380051 Gujarat. This term includes all its successors affiliates and permitted assigns unless contextually or meaningfully repugnant.",
+      "3.10": "Driver(s) refers to individuals who are independent third-party service providers engaged by or associated with car or its subsidiaries/affiliates to provide transportation services to Users on the Platform. These individuals are registered with car and represent that they possess the necessary licenses to provide transportation services within the City of Operation.",
+      "3.11": "E-Wallet refers to a prepaid instrument specifically the User’s linked PayTM wallet or the car Wallet where the User can add funds through various payment methods provided by the available Payment Gateway or Payment Processor.",
+      "3.12": "Force Majeure Event refers to any event caused by circumstances beyond the reasonable control of car.",
+      "3.13": "Location Fee includes but is not limited to toll duties interstate taxes airport charges or any other charges imposed by governmental authorities or third parties related to the operation of the Vehicle (defined below) at specific locations.",
+      "3.14": "Registration Data includes the current valid true and accurate name email ID phone number and any other information required by car from the User for registration on the Application.",
+      "3.15": "Ride means the transportation in the Vehicle by the User facilitated through the Electronic Media including City Rides or Airport Rides as applicable.",
+      "3.16": "Rush Hour Fee refers to the fee payable by a User for a Ride conducted during specified days and time slots ('Rush Hours') as detailed in the Pricing feature of the mobile app.",
+      "3.17": "'Relaxed Hour Fee' refers to the fee charged for a Ride conducted by the Driver outside of Rush Hours.",
+      "3.18": "'Service(s)' means the provision of technology platform services available on/through the Electronic Media that enables Users operating the Electronic Media to obtain, avail, arrange, and schedule transportation services offered by independent third-party service providers, including Drivers who are under an agreement with car or its affiliates ('Third Party Providers'). This includes facilitating transportation services between the User and the Driver by car through the Application, via telephone request at the car call center, or booking on the Website, within the City of Operation, as detailed in Clause 8.",
+      "3.19": "'Total Ride Fee' means the total amount displayed on the Electronic Media or notified to the User as payable for transportation services and Services provided through the Electronic Media. This includes the Location Fee, Additional Fee, Rush Hour Fee, Relaxed Hour Fee, Waiting Fee (where applicable), and any other fees notified by car on the Electronic Media or through the booking process for each User. This amount is inclusive of all applicable taxes.",
+      "3.20": "'Terms of Use' refers to these terms and conditions for the User.",
+      "3.21": "'Third-Party Advertiser(s)' are online or offline advertisements of various sponsors advertising and marketing their own goods and services through car.",
+      "3.22": "'User/ You' means a person who has an Account on the Application and/or Website.",
+      "3.23": "'Vehicle' means a four-wheeler automobile as defined under the Motor Vehicles Act, 1988.",
+      "3.24": "'Website' refers to the Application and the domain name https://car-smart.com operated by the Company or any other software that enables the use of the Application, or such other URL as specifically provided by the Company.",
+      "3.25": "'Waiting fee' means the fee charged for the waiting time of a driver at the rider’s pickup location and/or intermediate stops, exceeding the committed time as notified to the User."
+    },
+    "4. REGISTRATION AND ACCOUNT": {
+      "4.1": "The User acknowledges that they are at least 18 (eighteen) years of age, competent to contract under the Applicable Laws, and can register on the Electronic Media by entering their Registration Data.",
+      "4.2": "The User must ensure that the Registration Data provided in their Account is accurate, complete, current, valid, and true, and should be updated periodically. car bears no liability for inaccurate, incomplete, outdated, or incorrect Registration Data provided by the User.",
+      "4.3": "The User is solely responsible for maintaining the confidentiality of their Registration Data and will be liable for all activities and transactions conducted through their Account, whether initiated by the User or any third party. The User agrees not to authorize any third parties to use their Account and may not allow individuals under the age of 18 to receive transportation services from Third Party Providers unless accompanied by the User. The User’s Account cannot be transferred or assigned to a third party. car is not liable for any claims from third parties related to losses incurred due to unauthorized use of the User’s password or Account, with or without the User’s knowledge, or any claims arising from the use of Services provided by car through the User’s account.",
+      "4.4": "car reserves the right to suspend or terminate the User’s Account immediately and indefinitely if car has reason to believe that the Registration Data or any other data provided by the User is incorrect or false, the security of the User’s Account has been compromised, there is a breach of these Terms of Use, unauthorized use of the User’s Account by a third party, or for any other justifiable reason.",
+      "4.5": "It is the User’s responsibility to ensure they download the correct application for their device. car is not liable if the User’s mobile device is incompatible or if the wrong version of the Application is downloaded.",
+      "4.6": "car allows the User to open only one Account using the Registration Data provided. If there is any unauthorized use of the User’s Account, please immediately inform car at hello@car-smart.com.",
+      "4.7": "If the User is unable to access their Account, they should inform car at hello@car-smart.com and submit a written request to block the Account. car will not be liable for any unauthorized transactions made through the User’s Account before 72 (seventy-two) hours have passed since the written request to block the Account was submitted, and will not be liable in case of a Force Majeure Event.",
+      "4.8": "car reserves the right to modify, terminate, or suspend Services to the User at any time without prior notice due to changes in internal policies, Applicable Laws, breach of these Terms of Use by the User, or any other reason. The User can terminate their Account by sending a request to car at hello@car-smart.com or by calling +91-8007005005. However, in either case, all previous service requests will be voided, and no refund or Service-related deliverable will be provided. car will endeavor to respond to the User’s termination request promptly. However, the User remains responsible for all transactions occurring before the Account is terminated."
+    },
+    "5. USER CONTENT": {
+      "5.1": "Except for the Registration Data or any other data provided, posted, uploaded, or submitted by the User on the Electronic Media during the use of any service offered through it, car does not encourage the User to send any confidential or proprietary information to car on the Electronic Media or otherwise, unless required by Applicable Laws. By accepting these Terms of Use, the User agrees that any information or materials provided to car through the Electronic Media, other than the aforementioned, will not be considered confidential or proprietary.",
+      "5.2": "car is entitled to process and transfer User’s information as necessary, including storing or transferring such information to servers outside India or the User’s country, to fulfill car’s obligations under these Terms of Use, car Policies, and Applicable Laws.",
+      "5.3": "The User grants car a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sub-licensable (through multiple tiers) right to use the copyright, publicity, database rights, or any other rights in User’s information, in any media known now or in the future, with respect to User’s information. THE USER AGREES AND PERMITS car TO SHARE USER’S INFORMATION WITH THIRD PARTIES IN ACCORDANCE WITH APPLICABLE LAWS AND THE PRIVACY POLICY.",
+      "5.4": "Additionally, car will store the information provided by the User, including recordings of User’s calls with car's executives regarding car’s Services or related matters. The User must promptly inform car of any changes in the information provided to car regarding the Services used on the car platform.",
+      "5.5": "car reserves the right, without obligation, to monitor the content posted on the Electronic Media. car has the right to remove or edit any content that, in its sole discretion, violates or is alleged to violate any Applicable Law or the spirit of these Terms of Use. The User remains solely responsible for the content posted on the Electronic Media and in private messages. Content posted does not necessarily reflect car’s views. car assumes no responsibility or liability for any content posted or shared, or for any claims, damages, or losses resulting from the use of such content on the Electronic Media. The User warrants that they have all necessary rights to the content provided, it does not infringe any proprietary rights, and does not contain any unlawful information."
+    },
+    "6. PRIVACY": {
+      "6.1": "When you become a User and during your use of the Electronic Media and/or Services, you will provide us with certain information and other data, whether publicly available or not. We will uphold the privacy of such data according to our Privacy Policy, accessible at https://car-smart.com/privacyPolicy. Your continued use of the Electronic Media and/or Services signifies your acceptance of our Privacy Policy. We will share your data with third parties only as outlined in our Privacy Policy.",
+      "6.2": "Apart from and consistent with the terms, measures, and procedures for storing and securing data and information on the Electronic Media as outlined in the Privacy Policy, you acknowledge, agree, and accept that car employs standard security configurations to secure data and information on the Electronic Media. These practices adhere to reasonable and sufficient security standards as per industry norms and comply with the Information Technology Act, 2000 and its associated rules and regulations. You agree that in case of any information leakage, destruction, unauthorized access, or similar incidents involving information stored on car's Electronic Media, you waive your right to seek compensation under any Applicable Laws."
+    },
+    "7. USE OF ELECTRONIC MEDIA": {
+      "7.1": "The User agrees, undertakes, and confirms that User’s use of Electronic Media shall be strictly governed by the following binding principles:",
+      "7.1.1": {
+        "a": "User shall not host, display, upload, modify, publish, transmit, update, or share any information that: or",
+        "b": "is harmful, harassing, blasphemous, defamatory, obscene, pornographic, libelous, invasive of another's privacy, hateful, ethnically objectionable, disparaging, related to or encouraging money laundering or gambling, or otherwise unlawful, including threats or harassment under applicable laws; or",
+        "c": "is misleading in any way; or",
+        "d": "is patently offensive to the online community, such as sexually explicit content, or content that promotes obscenity, pedophilia, racism, bigotry, hatred, or physical harm against any group or individual; or",
+        "e": "involves the transmission of 'junk mail,' 'chain letters,' or unsolicited mass mailing or 'spamming'; or",
+        "f": "infringes upon or violates any third party's rights, including intellectual property rights, rights of privacy, or rights of publicity; or",
+        "g": "contains restricted or password-only access pages, hidden pages or images; or",
+        "h": "provides material that exploits people in a sexual, violent, or otherwise inappropriate manner or solicits personal information from anyone; or",
+        "i": "provides instructions for illegal activities such as making or buying illegal weapons, violating privacy, or creating computer viruses; or",
+        "j": "contains videos, photographs, or images of another person without their express written consent or the consent of their guardian if they are a minor; or",
+        "k": "attempts to gain unauthorized access to the Electronic Media or solicits passwords or personal information for commercial or unlawful purposes from other users; or",
+        "l": "engages in commercial activities and sales without car’s prior written consent, such as contests, sweepstakes, barter, advertising, pyramid schemes, or the buying or selling of 'virtual' items related to the Electronic Media; or",
+        "m": "interferes with another user's use and enjoyment of the Electronic Media or any other individual's use and enjoyment of similar services; or",
+        "n": "refers to any website or URL that car, in its sole discretion, deems inappropriate or violates these Terms of Use; or",
+        "o": "harms minors in any way; or",
+        "p": "involves fraud or the sale of counterfeit or stolen items; or",
+        "q": "violates any applicable law; or",
+        "r": "deceives or misleads recipients about the origin of messages or communicates information that is grossly offensive or menacing; or",
+        "s": "impersonates another person; or",
+        "t": "contains software viruses or other computer code designed to interrupt, destroy, or limit the functionality of any computer resource, or attempts unauthorized access; or",
+        "u": "threatens the unity, integrity, defense, security, or sovereignty of India, friendly relations with foreign states, public order, or causes incitement to commit any offense or obstructs the investigation of any offense; or",
+        "v": "is false, inaccurate, or misleading; or directly or indirectly offers, attempts to offer, trades, or attempts to trade in any item whose dealing is prohibited or restricted under applicable laws; or",
+        "w": "creates liability for car or causes car to lose (in whole or in part) the services of its vendors."
+      },
+      "7.1.2": "The User shall not use any 'deep-link', 'page-scrape', 'robot', 'spider', or other automatic device, program, algorithm, or methodology, or any similar or equivalent manual process, to access, acquire, copy, or monitor any portion of the Electronic Media or any content, or circumvent its navigational structure or presentation, to obtain materials, documents, or information not expressly made available through the Electronic Media. car reserves the right to block any such activity as detected or deemed appropriate.",
+      "7.1.3": "The User shall not probe, scan, or test the vulnerability of the Electronic Media or any network connected to it, nor breach its security or authentication measures. User may not trace information on other users or attempt to reveal personal information other than their own, as provided for by the Electronic Media.",
+      "7.1.4": "The User agrees not to take any action that imposes an unreasonable or disproportionately large load on car’s infrastructure, systems, or networks, or those connected to the Electronic Media.",
+      "7.1.5": "The User may not use the Electronic Media or any content for unlawful purposes, to solicit illegal activities, or to infringe upon the rights of car or others.",
+      "7.1.6": "The User shall not use the services or Electronic Media in any manner that could damage, disable, overburden, block, or impair any server connected to it, or attempt unauthorized access.",
+      "7.1.7": "The User may not reverse engineer, decompile, or disassemble any software used to provide car’s services.",
+      "7.1.8": "The User shall refrain from making negative, denigrating, or defamatory statements about car, its brand, domain names, services, or third-party providers, or engaging in any conduct that could tarnish their image, reputation, or goodwill.",
+      "7.1.9": "By creating an account, the User authorizes car to contact them via call, SMS, or email for service-related communications, feedback, or offers. Users may opt to receive promotional information from car and can unsubscribe at any time as provided in the Electronic Media.",
+      "7.1.10": "The User shall not engage in advertising or solicitation of other users of the Electronic Media to buy or sell any products or services without permission. Use of information obtained from the Electronic Media to harass, abuse, or harm others is prohibited.",
+      "7.1.11": "car reserves the right to disclose User information as necessary to comply with legal requirements or governmental requests, including for investigations related to illegal activities or court orders.",
+      "7.1.12": "Users acknowledge the possibility of exposure to offensive materials posted by others on the Electronic Media and the potential for others to misuse publicly disclosed personal information. car is not responsible for such unauthorized uses.",
+      "7.1.13": "car reserves the right to take necessary actions and claim damages resulting from User actions that hinder car’s services.",
+      "7.1.14": "car’s compliance with these Terms of Use is subject to Indian laws and governmental processes. car may disclose User information to law enforcement or regulatory authorities as necessary or appropriate."
+    },
+    "8. SERVICES": {
+      "8.1": "The Electronic Media is a technological platform that allows Users to organize, obtain, and access transportation offerings provided by Third-Party Providers through the Electronic Media. It is agreed between the parties that upon booking services through the Electronic Media, this arrangement forms a separate bilateral relationship between the User and the Third-Party Providers. It is clarified that for the purpose of facilitating interaction, communication, and transactions between the Third-Party Provider and the User, the Electronic Media acts only as an intermediary service provider and/or facilitator, and hence, car shall not be held liable or responsible for any liabilities, losses, claims, or damages arising from or related to the interactions, communications, and transactions between the Third-Party Provider and the User. The User agrees to hold car harmless and indemnify it in this regard.",
+      "8.2": "You acknowledge and agree that Third-Party Providers are not employees, agents, representatives, contractors, advisers, or staff members of car, and car has no responsibility for any actions, omissions, advice, services, or representations made by these Third-Party Providers. car does not guarantee or warrant (a) the availability of Third-Party Providers, (b) the accuracy of representations made or information posted on the Electronic Media by Third-Party Providers, (c) the accuracy of information exchanged between Third-Party Providers and Users, or (d) the quality, nature, usefulness, relevance, or accuracy of the services provided by Third-Party Providers.",
+      "8.3": "The Service allows you to send a request through car's Electronic Media to a Driver/Third-Party Provider within car’s network. The Driver has the discretion to accept or reject each service request. If the Driver accepts a request, car will notify the User and provide information about the Driver, including the Driver's name, vehicle license number, telephone contact details, and other relevant information as determined by car.",
+      "8.4": "car will make reasonable efforts to connect the User with a Driver, subject to the availability of a Driver in or around the User’s location at the time of the User’s service request.",
+      "8.5": {
+        "content": "By using the Application or the Service, the User further agrees to:",
+        "8.5.1": "Use the Service or download the Application solely for personal use and not for commercial purposes, and not resell or assign it to a third party;",
+        "8.5.2": "Not use an account that is subject to the rights of another person without appropriate authorization;",
+        "8.5.3": "Not use the Service or the Electronic Media for unlawful purposes or carry any materials or equipment that are prohibited by law or can be used for illegal activities;",
+        "8.5.4": "Not harm the Driver, Electronic Media, or car's network, or cause any damage to the vehicle;",
+        "8.5.5": "Provide car with any requested information and documents as reasonably required;",
+        "8.5.6": "Use an authorized network to access services;",
+        "8.5.7": "Be aware that requesting services through Electronic Media or calling car’s call center may incur standard messaging, data, or voice charges;",
+        "8.5.8": "Comply with all applicable laws from the User’s country of residence and the location where the User is using the Electronic Media or Service;",
+        "8.5.9": "Comply with the Information Technology Act, 2000, and its related rules, regulations, and guidelines.",
+        "8.5.10": "Not cause nuisance, annoyance, inconvenience, or property damage to the vehicle, Third-Party Provider, or any other party while using the services. In certain instances, the User may be asked to provide proof of identity to access or use the services, and the User may be denied access or use if they refuse to provide proof of identity."
+      },
+      "8.6": "car reserves the right to terminate the Service and the use of the Electronic Media immediately if the User fails to comply with any of the above requirements.",
+      "8.7": "The User is strictly prohibited from the following actions, including but not limited to: smoking or drinking in the vehicle, misbehaving with the Driver, discriminating against the Driver based on caste, creed, sex, gender, religion, race, place of birth, or language, harassing, harming, or abusing the Driver, damaging advertisements or promotional material in the vehicle, distracting the Driver, leaving without paying, jumping out of the vehicle, abusing the Driver, damaging the vehicle's interiors, causing fire, or violating any applicable laws.",
+      "8.8": "If the User engages in the above actions, they shall be liable to pay a fine to car, and car reserves the right to terminate the ride and/or the User’s account immediately.",
+      "8.9": "If the User fails to pay the fine after the ride, car may take legal steps to recover the fine or any amount due for loss, damages, costs, and expenses incurred by car and/or Third-Party Providers due to the User’s illegal or unauthorized use of services. The User may also be blacklisted and their account terminated for non-payment of the fine or for misbehavior or causing the aforementioned actions."
+    },
+    "9. CONFIRMATION OF BOOKING": {
+      "9.1": "car, upon receiving a booking for the service, utilizes various algorithms to assign a Driver who is closest to the User's requested location. Once a Driver is assigned to the User's booking request, the Driver has the discretion to accept or decline the booking made by the User through the Electronic Media or via a phone call.",
+      "9.2": "car, after receiving the User's booking request and obtaining confirmation from the Driver as described above, will proceed to communicate the booking confirmation or non-acceptance based on the availability of the vehicle at the requested pickup time. This information will be communicated to the User via SMS, email, or a notification on the application.",
+      "9.3": "The User shall be responsible for any delays and associated consequences or damages resulting from the User's failure to provide accurate pickup details and time, failure to check the confirmation SMS or email, or failure to promptly inform car of any incorrect details."
+    },
+    "10. PAYMENT": {
+      "10.1": "The User will be billed the Total Ride Fee by car for each ride to cover the transportation services and the services utilized by the User through the Electronic Media. The User acknowledges that the Total Ride Fee shown on the platform at the time of booking is an estimate and may change at the time of payment and upon completion of the ride, depending on the actual trip taken (e.g., exact kilometers traveled, time to reach the destination, changes in location during the trip, etc.). The fee may also vary due to unforeseen circumstances in certain areas (such as curfews, road closures, etc.) or if the User opts for additional services. The User will be responsible for paying the actual Total Ride Fee calculated and displayed on the Electronic Media at the end of the trip or as notified to the User by car’s call centers if the booking was made via phone call. car will make reasonable efforts to inform the User of the applicable charges, but the User is accountable for any charges incurred under their Account, regardless of their awareness of such charges or their amounts.",
+      "10.2": "The User understands that they will be charged a Location Fee and any applicable tolls, inter-state taxes, airport charges, or other fees imposed by government authorities or third parties for the operation of the vehicle in specific locations. The User acknowledges that the Additional Fee may be adjusted at the sole discretion of car, with such revised fees being posted on the Electronic Media periodically, based on the booking method used by the User. The User agrees that, in comparison to fees during non-peak hours, a higher Rush Hour Fee will apply for rides conducted during peak hours due to increased traffic and the associated demand and supply dynamics.",
+      "10.3": "Additionally, the User must pay a Cancellation Fee if they cancel a ride, in accordance with the terms outlined in Clause 11 (Cancellation Policy).",
+      "10.4": "If the User chooses to pay by cash at the time of booking, the Total Ride Fee will be collected by the Driver at the end of the ride.",
+      "10.5": "car will provide a receipt and acknowledgment for the Total Ride Fee payable by the User at the end of the ride. The User can request a copy of the invoice from the support page on the Electronic Media.",
+      "10.6": "car or the Third-Party Providers reserve the right to charge the User for any reasonable costs needed to clean or repair the vehicle due to the User's actions during the ride. car will collect these costs on behalf of the Third-Party Providers. The User is responsible for the repair or cleaning costs for damage to or necessary cleaning of the vehicles resulting from their use of the services, beyond normal wear and tear. If a Third-Party Provider reports a need for repair or cleaning, and car verifies this need at its reasonable discretion, car will facilitate the payment for the reasonable cost of such repair or cleaning, which the User will pay using the payment method linked to their Account.",
+      "10.7": "This payment structure is intended to fully compensate the Third-Party Provider for the services or goods provided. car does not designate any part of the User’s payment as a tip or gratuity to the Third-Party Provider. Any indication by car (on the website, in the application, or in car’s marketing materials) that tipping is “voluntary,” “not required,” or “included” in the payments made for services or goods is not intended to imply that car provides any additional amounts to the Third-Party Provider beyond those described above. The User understands that while they may choose to give an additional gratuity to any Third-Party Provider who offers services or goods through the service, they are not obligated to do so. Gratuities are voluntary. After receiving services or goods through the service, the User will have the opportunity to rate their experience and provide additional feedback about the Third-Party Provider.",
+      "10.8": {
+        "10.8": "The User may choose to pay the Total Ride Fee (whether in full or in part) using one of the following four methods:",
+        "10.8.1": "Cash Payment: The Total Ride Fee can be paid in cash to the Driver after the completion of the ride. Additionally, the Location Fee and/or the Additional Fee can also be paid in cash by the User, and in such cases, these fees will not be included in the Total Ride Fee.",
+        "10.8.2": "E-Wallet Payment: car offers Users the option to make online payments through an E-Wallet as per Clause 3.9, powered by a third-party payment processor ('Payment Processor'). Payments processed through the E-Wallet are subject to the terms, conditions, and privacy policies of the Payment Processor engaged by car. car is not responsible for any errors by the Payment Processor. The funds added to the car Wallet are non-refundable and have no expiration date.",
+        "10.8.3": "Credit Card/Debit Card/Net Banking Payment: Users have the option to make online payments for the Total Ride Fee charged by car for the ride. This fee can be paid through a payment gateway/processor ('Payment Gateway') authorized by car, which may be car itself or its affiliates, partners, or unrelated third parties. The User agrees to provide relevant payment details, including credit/debit card details ('Card Details'), to the Payment Gateway to complete the payment towards the Total Ride Fee via the car application and authorizes the Payment Gateway to complete such transactions. The Payment Gateways used for the website, application, and services are PCI-DSS (Payment Card Industry – Data Security Standard) compliant. The User’s authorization allows the Payment Gateway to debit or credit the bank account linked to their payment details. The User’s authorization also permits the Payment Gateway to use their Card Details for transactions initiated by the User at any of car’s affiliates. The User can save their card or bank details for future payments through car as long as they maintain an Account on the car application. If the User deletes their Card Details or Account, the Payment Gateway will not process further transactions initiated by the User on the website, application, or any of car’s affiliates’ sites. The User's authorization under this clause is subject to the terms and conditions of the Payment Gateway."
+      },
+      "10.9": "Any payment-related issues, except those caused by an error or fault in the application and/or website, must be resolved between the User and the Payment Processor/Payment Gateway. car is not responsible for any unauthorized use of the User’s E-Wallet, credit card, debit card, or net banking details during or after using the services on the application and/or website.",
+      "10.10": "If car suspects that any payment instructions made on the User’s Account are fraudulent, car will suspend and deny the User access to their Account to investigate and report the suspicious activity. This suspension will remain in effect until the investigation is concluded."
+    },
+    "11. CANCELLATION AND WAITING FEE POLICY": {
+      "content": "The User agrees and acknowledges that they may cancel a vehicle request from a Driver at any time, subject to a Cancellation Fee imposed by car, as per car’s Cancellation & Waiting Policy, as detailed below:",
+      "11.1": "For vehicles requested and/or scheduled by Users through the Application or directly by phone through car’s operators, the Cancellation Fee will be applied in the following circumstances:",
+      "11.1.1": {
+        "a": "If the User cancels after the vehicle has been assigned; or",
+        "b": "If the assigned Driver waits for more than a predetermined time at the User’s location after the scheduled time slot. However, if the Driver arrives more than one minute late to pick up the User, no Cancellation Fee will be charged for that ride."
+      },
+      "11.2": "The User will be informed of the applicable Cancellation Fee in advance whenever they attempt to cancel a booking or service request with car. This notification will be provided on the Application and/or the Website.",
+      "11.3": "car will issue a receipt for any Cancellation Fee payable by the User for each cancellation as per the above clauses. The User can request a copy of the invoices for such cancellations from the support page on the Electronic Media.",
+      "11.4": "The Cancellation Fee is due and payable by the User at the time of cancellation and may be collected either immediately upon cancellation or upon the completion of the User’s subsequent ride.",
+      "11.5": "A nominal Waiting Fee will be added to the fare of the ride if the Driver waits at the User’s pickup location and/or at intermediate stops for more than a predetermined time, in accordance with car’s Cancellation and Waiting Policy.",
+      "11.6": "car will not cancel any ride unless explicitly requested by the rider via the car app, email, or phone. This applies to all situations except those arising from adverse weather, traffic, law and order issues, or any other conditions deemed appropriate by car."
+    },
+    "12. REFUNDS": {
+      "12.1": "In the even the User is of the view that he/she has been over charged in respect of any particular Ride by the Driver, then he/she may raise a refund request on the Electronic Media. Where BluSmart determines that a refund request is valid, it shall make reasonable efforts to grant the refund request and return the requisite funds to the respective source of payment. In the event that the User desires a refund on any amount that has been debited from the User’s account either through third party wallet or Blu Wallet or through the saved credit card/debit card/ net banking and the same was not authorised by the User, the User shall be required to email hello@blu-smart.com or contact BluSmart on +91-8007005005 and make a refund request clearly explaining the circumstances of the User’s refund request.",
+      "12.2": "In case User has erroneously paid an amount in excess of the applicable Total Ride Fee through the payment methods made available on the platform, which was not required to be transferred, after assessing the validity of the written request from the User, BluSmart shall process to credit the funds to the same source from where these were received.",
+      "12.3": "BluSmart will make reasonable efforts to respond to the User’s refund request at the earliest. Please note that BluSmart will not be responsible for delays, which may be caused by any third parties such as banks, Payment Processors, Payment Gateways and third party -merchants, on whom BluSmart relies while processing refund request or any delay caused in case of any force majeure events which are beyond BluSmart’s reasonable control. Therefore, BluSmart shall bear no liability for the processing of the refund requests."
+    },
+    "13. DISCLAIMERS, WAIVER AND RELEASE": {
+      "13.1 car's Limited Liability": {
+        "1": "car is not involved in transactions between users, third-party providers, customers, merchants, banks, payment processors, gateways, or other parties.",
+        "2": "car is not responsible for the quality, safety, reliability, legality, delivery, or any other aspect of goods or services purchased through third-party advertisers. Users use the service at their own risk."
+      },
+      "13.2 Service Provided 'As Is'": {
+        "3": "The service is provided on an \"as is\" and \"as available\" basis.",
+        "4": "car disclaims all express or implied warranties, including for accuracy, availability, continuity, timeliness, quality, performance, security, merchantability, fitness for purpose, non-infringement, or completeness.",
+        "5": "car does not warrant the website and app will be constantly available, or that they are free of viruses or harmful components.",
+        "6": "Nothing on the website constitutes advice."
+      },
+      "2. Limitation of Liability": {
+        "1": "car and its representatives are not liable for any loss, damage, claim, expense or liability arising from use of the service or reliance on information, whether due to car's negligence or otherwise",
+        "2": "Users acknowledge car may not encrypt content or communications."
+      },
+      "3.Transactions at User's Risk": {
+        "1": "Transactions between third-party providers and users are at the user's sole risk. car is not liable for any injury, loss, claim, damage or consequential damages arising from such transactions."
+      },
+      "4.No Claims Against car": {
+        "1": "Users shall not have any claim against car regarding transactions between third-party providers and users.",
+        "2": "car is not deemed a provider or recipient of services acquired through the platform."
+      },
+      "5.Disputes Between Users": {
+        "1": "In disputes between third-party providers and users, both users relieve car and its affiliates from all claims, demands and losses."
+      },
+      "6.Indemnification": {
+        "1": "Users agree to indemnify and hold car harmless from any claim, suit or action brought by the user, third party or third-party provider in relation to use of services or payments."
+      },
+      "7.Disclaimers Apply": {
+        "1": "The disclaimers, waivers, releases, limitations and exclusions apply regardless of the cause of action or liability under law, contract or tort."
+      }
+    },
+    "14. LIMITATION OF LIABILITY": {
+      "1. Third-Party Advertisers on car's Platform": {
+        "1": "car may allow third-party advertisers to place ads on its electronic media or vehicles.",
+        "2": "Ads are subject to car's advertising policies."
+      },
+      "2. car's Disclaimer of Liability": {
+        "1": "car does not verify content or information provided by third-party advertisers.",
+        "2": "car disclaims liability for any loss arising from third-party advertisers' use of car's platform or services."
+      },
+      "3. Third-Party Websites Linked from car": {
+        "1": "car's electronic media may link to third-party websites",
+        "2": "car is not responsible for content, accuracy or reliability of linked websites",
+        "3": "car is not liable for transactions between users and third-party advertisers"
+      },
+      "4. Advertising's Role in car's Service": {
+        "1": "Advertising plays an important role in car's service",
+        "2": "car may send promotional communications to users about advertisers' offerings"
+      },
+      "5. No Endorsement of Third-Party Content": {
+        "1": "car does not endorse or warrant suitability of third-party content or advertisements"
+      },
+      "6. Transactions with Third-Party Advertisers": {
+        "1": "Users' dealings with third-party advertisers are solely between user and advertiser",
+        "2": "car is not liable for any resulting loss or damage"
+      },
+      "7. car's Services with Third Parties": {
+        "1": "car may provide services in conjunction with third parties.",
+        "2": "Users authorize car to share personal information as needed for those services."
+      },
+      "8. car's Right to Reject Third-Party Services": {
+        "1": "car reserves the right to reject or refuse any third-party service used by a user on its platform"
+      }
+    },
+    "15. CUSTOMER RELATIONSHIP MANAGEMENT": {
+      "1. Customer Feedback and Ratings": {
+        "1": "Users should communicate issues, opinions, suggestions, questions, and feedback to email@email.email",
+        "2": "Users must rate drivers after completing rides",
+        "3": "Users agree to be fair, accurate, and non-disparaging in comments, feedback, testimonials, or reviews"
+      },
+      "2. Reporting Issues": {
+        "1": "Issues must be reported within 7 days of occurrence, or they will not be addressed",
+        "2": "Users must communicate issues only through car's electronic media, helpdesk, or grievance offices, not on third-party platforms or social media",
+        "3": "Users are liable for wrongful allegations or issues posted on other platforms",
+        "4": "car is not responsible for complaints made or content posted by users on other channels"
+      },
+      "3. car's Response to Issues": {
+        "1": "car will endeavor to respond to user issues within 2 working days and resolve them as soon as possible",
+        "2": "Issues are resolved based on severity, so some may be addressed earlier than others",
+        "3": "car is not liable for damages or losses if users are unsatisfied with resolutions"
+      }
+    },
+    "16. INDEMNIFICATION": {
+      "1. Indemnification": {
+        "1": {
+          "i": "In addition to the specific indemnities provided in the Terms of Use and car's policies, the user agrees to indemnify, defend and hold harmless car, its affiliates, officers, directors, employees, consultants, representatives, shareholders, contractors, users, and agents (the \"Indemnified Parties\") against any and all losses, liabilities, claims, damages, demands, costs, and expenses (including legal fees) arising from or related to:",
+          "ii": "Any breach or non-compliance by the user of the Terms of Use or other conditions regarding use and access of the platform, availing of services, or purchase of third-party products/services.",
+          "iii": "Any untruthful or incorrect information provided by the user during registration or while availing services.",
+          "iv": "Any claim by a driver or third-party provider regarding interactions, communications, dealings, disputes or transactions between the user and them.",
+          "v": "Any content posted by the user on the platform or the user's use of the platform's services.",
+          "vi": "Any third-party claim due to or arising from the user's use of the platform or availing of services.",
+          "vii": "Any breach of third-party rights (such as defamation, privacy invasion, or intellectual property infringement) by the user."
+        }
+      },
+      "2.": "The user's obligation to indemnify, defend and hold the Indemnified Parties harmless applies regardless of the cause of action or liability under law, contract or tort."
+    },
+    "17. LIABILITY": {
+      "car's Liability Limitations": {
+        "1": "The information, recommendations, and services provided to users through car's electronic media, app, and call center are for general information purposes only and do not constitute advice. car will reasonably keep the content up-to-date but does not guarantee it is error-free or accurate.",
+        "2": "car is not liable if users miss trains, flights, or events due to delays, as the service depends on many factors beyond car's control. Users must book rides accounting for check-in times, traffic, weather, etc.",
+        "3": "If a vehicle is delayed more than 10 minutes, car will only try to connect the user with the assigned driver.",
+        "4": "car is not liable for any damages resulting from use or inability to use the electronic media, including from wrong usage, network issues, malware, or inaccurate information.",
+        "5": "Users are fully responsible for their own items and luggage. car will only try its best effort to locate lost items, but is not responsible for loss or damage.",
+        "6": "car does not assure complete sustainability of its service and is not liable for any lack thereof.",
+        "7": "car is not responsible for any loss of communication or information about user status or benefits. Users must report any errors immediately.",
+        "8": "In no event shall car be liable for any direct, indirect, punitive, incidental, special, or consequential damages, even if advised of the possibility.",
+        "9": "car's aggregate liability under these terms shall not exceed Rs. 1,000, to the maximum extent permitted by law.",
+        "10": "If applicable law does not allow exclusion of certain warranties or liability limitations, car's liability shall be the minimum permitted."
+      }
+    },
+    "18. INTELLECTUAL PROPERTY OWNERSHIP": {
+      "1. Intellectual Property Ownership": {
+        "1": "car, along with its applicable licensors, retains full ownership and control over all rights, titles, and intellectual property rights associated with the electronic media, services, and any suggestions, ideas, feedback, or other information provided by users or third parties.",
+        "2": "Users should be aware that third-party trademarks may be present on car's electronic media, and they must obtain direct permission from the respective trademark owners before engaging in any use of those marks.",
+        "3": "The terms of use do not constitute a sale or transfer of ownership, and they do not convey any proprietary rights to users over car's electronic media, services, or intellectual property. Users bear sole responsibility for any legal violations or intellectual property infringements that may arise from their use of car's services or media.",
+        "4": {
+          "content": "Users are only permitted to utilize information on car's electronic media that has been made available for downloading, and they must adhere to the following conditions:",
+          "a": "Users are only permitted to utilize information on car's electronic media that has been made available for downloading, and they must adhere to the following conditions:",
+          "b": "They must not remove any proprietary notices or make any modifications to the information.",
+          "c": "They may only use the information for their personal, non-commercial purposes and must refrain from copying or redistributing it.",
+          "d": "They must not make any additional representations or warranties regarding the information."
+        }
+      }
+    },
+    "19. SUSPENSION AND TERMINATION": {
+      "1": {
+        "content": "car reserves the sole discretion to terminate any user account or deny access to the service for reasons including providing false or misleading registration information, violating the terms of use, or violating applicable laws.",
+        "a": "Providing false or misleading registration information",
+        "b": "Violating the letter or spirit of the terms of use",
+        "c": "Violating applicable laws"
+      },
+      "2": "car may immediately deactivate, delete, or bar access to a user's account and related information without liability. car also has discretion to terminate or cancel any of the user's past acts without liability.",
+      "3": "car does not permit copyright infringement and may terminate access for repeat infringers. Suspected illegal activity may be referred to law enforcement. These remedies are in addition to any others car may have.",
+      "4": "Users may terminate their account by written notice to car, but this will not prejudice any of the user's past lawful acts on the platform.",
+      "5": "Unless terminated, the agreement between car and the user is perpetual upon downloading the app or booking a ride.",
+      "6": "Users can close their account at any time by following instructions on the platform.",
+      "7": "Termination will not prejudice the accrued rights of car or the user."
+    },
+    "20. APPLICABLE LAW AND DISPUTE RESOLUTION": {
+      "1": "These Terms of Use are subject to the laws of India.",
+      "2": "All disputes arising out of or in connection with the Terms of Use shall be attempted to be settled through negotiation between senior management of car and the user. If any dispute is not amicably settled within 60 days of initiating the dispute resolution mechanisms, it shall be resolved by arbitration in accordance with the Rules of Arbitration of the Indian Council of Arbitration in force at the time. The dispute shall be referred to one arbitrator appointed by car. The place of arbitration shall be New Delhi and the language shall be English. The arbitrator's decision will be final, binding and incontestable, and may be used as a basis for judgment in India or elsewhere. car and the user will each bear their own arbitration costs.",
+      "Key points": {
+        "1": "The terms are governed by Indian law.",
+        "2": "Disputes must first be negotiated between senior management.",
+        "3": "If not settled within 60 days, disputes go to binding arbitration following the Indian Council of Arbitration rules.",
+        "4": "car appoints the sole arbitrator",
+        "5": "Arbitration takes place in New Delhi with English as the language",
+        "6": "The arbitrator's decision is final and can be enforced as a judgment",
+        "7": "Each party bears their own arbitration costs",
+        "8": "The arbitration clause provides a clear process for resolving disputes outside of court, with car maintaining control over the appointment of the arbitrator. The 60-day negotiation period allows an opportunity to settle before entering into binding arbitration."
+      }
+    },
+    "21. GENERAL PROVISION": {
+      "21.1": "car is not liable for any third-party infringement of copyright, trademark, patents, or other intellectual property rights arising from content posted or transmitted through car's electronic media or items advertised thereon.",
+      "21.2": "car shall not be liable for any failure or delay in performing services or providing access to the electronic media due to circumstances beyond its reasonable control. However, any indulgence granted by car does not constitute a waiver of its rights.",
+      "21.3": "These Terms of Use and car's incorporated policies constitute the entire agreement between the parties, superseding all prior understandings.",
+      "21.4": "Provisions that should survive by nature will remain in effect after termination or expiration of the Terms of Use.",
+      "21.5": "If any provision is declared invalid, the remaining provisions shall remain in full force.",
+      "21.6": "Representations by car's employees, officers, or agents do not amend these Terms unless set out in writing and signed by a director.",
+      "21.7": "Users cannot assign, transfer, or novate their rights/obligations without car's prior written consent.",
+      "21.8": "Indian laws govern these Terms, and users submit to the exclusive jurisdiction of New Delhi courts for disputes.",
+      "21.9": "car's failure to enforce any right or provision does not constitute a waiver.",
+      "21.10": "No partnership, joint venture, or employment relationship arises between users and car.",
+      "21.11": "car may serve notices by email, fax, or mail, with deemed delivery timelines.",
+      "21.12": "Only users have rights under these Terms, not third parties.",
+      "21.13": "Users agree to receive car's marketing and promotional materials.",
+      "21.14": "Invalidity of any term does not affect other provisions, which may be replaced with acceptable alternatives.",
+      "21.15": "car may provide general notices on the service, by email, SMS, or mail.",
+      "21.16": "Users may contact car's support team by email.",
+      "21.17": "car is not liable for failure to perform due to force majeure events."
+    },
+    "22. GRIEVANCE OFFICER": {
+      "content": "Any complaints, abuse or concerns regarding content, comments or breach of the Terms of Use should be immediately reported to car's Chief Grievance Officer at the following:",
+      "Email": "grievance.officer@car.com",
+      "Designation": "Chief Grievance Officer, car Mobility Private Limited",
+      "Corporate Address": "@address",
+      "Submission Method": "Users can submit their grievances to the Chief Grievance Officer either through electronic signature or in writing at the provided address."
+    }
+  }
+}

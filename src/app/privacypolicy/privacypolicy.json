@@ -1,0 +1,64 @@
+{
+  "title": "Privacy Policy",
+  "company": "car Fleet Ltd.",
+  "description": "car Fleet Ltd. (hereinafter referred to as 'car,' 'We,' 'Us'), along with its third-party service providers engaged to render certain services on the Web Portal / Mobile Application, is committed to upholding the privacy and security of the information supplied by every person (User/You) accessing and using any version of the Web Portal / Mobile Application on a compatible device.",
+  "dataCollection": {
+    "title": "Data Collection and Usage",
+    "content": "This Privacy Policy provides you with details about how your data is collected, stored, and used by us. You are advised to read this Privacy Policy carefully. By visiting the car subscription web portal or downloading/accessing the Mobile Application, you signify that you have read, understood, and agree to be bound by this Privacy Policy. If you do not agree to the terms of this Privacy Policy, do not use or access the Web Portal / Mobile Application."
+  },
+  "policyModifications": {
+    "title": "Policy Modifications",
+    "content": "We reserve the right to update or modify this Privacy Policy at any time without prior notice, and such changes shall be effective immediately upon posting the updated or modified Privacy Policy on the car Subscription Web Portal. We shall not be bound to inform you of any modifications hereof."
+  },
+  "userConduct": {
+    "title": "User Conduct",
+    "content": "While using the Web Portal / Mobile Application, you agree not to engage in illegal or unauthorized activities by any means (including hacking, cracking, or defacing any portion of the Web Portal)."
+  },
+  "authorizationConsent": {
+    "title": "Authorization and Consent",
+    "content": "You hereby authorize and consent to car Fleet Ltd. (hereinafter referred to as 'car') obtaining your personal information from Credit Information Companies (CICs). This authorization enables car to access and analyze your credit score for the proposed car subscription transaction. This consent and authorization are unconditional and shall be used by car solely for the purpose of evaluating your creditworthiness for availing the subscription services. By consenting, you agree to the following:",
+    "subTitle": [
+      {
+        "title": "Consent for Credit Information:",
+        "content": "I/We hereby give my/our free consent and authorize car Fleet Ltd. to use my/our personal information to obtain my/our Credit Information Report and Credit Score from any Credit Information Companies (CICs). This consent is for the purpose of determining my/our credit score, undertaking credit risk analysis, and considering lending to me/us for the subscription service, and not for any other purposes."
+      },
+      {
+        "title": "Information Sharing:",
+        "content": "I/We confirm that CICs sharing my/our information with car is in order, and I/we shall not hold them responsible for sharing the information. I/We further state that no person has induced me/us to provide my/our Consumer Credit Information."
+      },
+      {
+        "title": "Liability and Accuracy:",
+        "content": "I/We shall not hold car responsible or liable for any loss, claim, liability, or damage of any kind resulting from any inaccuracy or error in the credit information provided by any CICs, or for any breach of confidentiality or privacy by any CICs sharing my/our Consumer Credit Information."
+      },
+      {
+        "title": "Electronic Consent:",
+        "content": "I/We agree that I/we may be required to record my/our consent or provide instructions electronically. By clicking on the 'I Accept' button below, I/we provide 'written instructions' to car authorizing car to obtain my/our Consumer Credit Information from my/our personal credit profile from any CIC. By accepting these terms and conditions, I/we understand that I/we provide express written instructions for car to request and receive information about me/us from third parties, including but not limited to a copy of my/our consumer credit report and score from consumer reporting agencies, at any time for as long as I/we have an active car account."
+      }
+    ]
+  },
+  "subscriptionLimit": {
+    "title": "Subscription Limit",
+    "content": "The subscription limit shall be solely determined according to the internal criteria of car, and it shall be at the sole discretion of car."
+  },
+  "chargesDocumentation": {
+    "title": "Charges and Documentation",
+    "content": "You shall pay/remit documentation charges and subscription processing fees upfront as stipulated by car before availing the subscription service. You must submit all KYC documents, credit information, income details, and other necessary documents, and execute all necessary subscription agreements either in digital or physical form. You shall be bound by the terms and conditions of the subscription agreement."
+  },
+  "communication": {
+    "title": "Communication",
+    "content": "You agree to receive all communication from car, which could be through digital modes such as SMS, WhatsApp messages to your registered mobile number, electronic mail, or postal communication to your given address."
+  },
+  "noContractualObligation": {
+    "title": "No Contractual Obligation",
+    "content": "Please note that this Privacy Policy does not create any contractual or other legal rights in or on behalf of any party, nor is it intended to do so. "
+  },
+  "websiteAnalytics": {
+    "title": "Website Analytics",
+    "content": "We may use third-party website analytics services in connection with the Web Portal / Mobile Application. These website analytics services do not collect information that you do not voluntarily enter into the Web Portal / Mobile Application. These services do not track your browsing habits across websites that do not use their services. We use the information collected from these services to identify usability problems and make the Web Portal / Mobile Application easier to use. The recordings will never identify you or your account."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "content": "If you have any questions or concerns about this Privacy Policy, please contact us at ",
+    "email": "Growth@gocar.com"
+  }
+}

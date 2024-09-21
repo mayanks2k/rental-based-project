@@ -1,0 +1,14 @@
+[
+    {
+      "id": "1",
+      "type": "Car",
+      "brand": "Toyota",
+      "model": "Corolla",
+      "year": "2022",
+      "color": "Blue",
+      "registrationNumber": "ABC123",
+      "pricePerDay": "50",
+      "availability": "Available"
+    }
+  ]
+  

@@ -1,0 +1,17 @@
+[
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "companyName": "Doe Inc.",
+      "email": "john.doe@example.com",
+      "phoneNumber1": "123-456-7890",
+      "phoneNumber2": "098-765-4321",
+      "address": "123 Elm Street",
+      "city": "Springfield",
+      "postalCode": "12345",
+      "houseNumber": "12",
+      "country": "United States"
+    }
+  ]
+  

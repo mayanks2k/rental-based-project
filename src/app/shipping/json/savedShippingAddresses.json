@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "fullName": "John Doe",
+    "email": "john.doe@example.com",
+    "phoneNumber": "1234567890",
+    "roadOrAreaName": "Maple Street",
+    "nearbyLandmark": "Central Park",
+    "houseOrBuildingNumber": "101",
+    "addressLine1": "Apt 5B",
+    "addressLine2": "Near the post office",
+    "city": "New York",
+    "state": "New York",
+    "pinCode": "10001",
+    "country": "United States"
+  },
+  {
+    "id": "2",
+    "fullName": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "phoneNumber": "0987654321",
+    "roadOrAreaName": "Oak Avenue",
+    "nearbyLandmark": "City Mall",
+    "houseOrBuildingNumber": "202",
+    "addressLine1": "Suite 300",
+    "addressLine2": "Opposite the cinema",
+    "city": "Los Angeles",
+    "state": "California",
+    "pinCode": "90001",
+    "country": "United States"
+  },
+  {
+    "id": "3",
+    "fullName": "Amit Patel",
+    "email": "amit.patel@example.com",
+    "phoneNumber": "1122334455",
+    "roadOrAreaName": "MG Road",
+    "nearbyLandmark": "Mall of India",
+    "houseOrBuildingNumber": "303",
+    "addressLine1": "Block A",
+    "addressLine2": "Next to the market",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pinCode": "400001",
+    "country": "India"
+  }
+]

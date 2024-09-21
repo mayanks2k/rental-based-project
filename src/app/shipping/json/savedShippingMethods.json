@@ -1,0 +1,24 @@
+[
+    {
+      "id": "1",
+      "methodName": "Standard Shipping",
+      "description": "Delivery within 5-7 business days",
+      "cost": 5.99,
+      "estimatedDelivery": "5-7 business days"
+    },
+    {
+      "id": "2",
+      "methodName": "Expedited Shipping",
+      "description": "Delivery within 2-3 business days",
+      "cost": 12.99,
+      "estimatedDelivery": "2-3 business days"
+    },
+    {
+      "id": "3",
+      "methodName": "Overnight Shipping",
+      "description": "Next-day delivery",
+      "cost": 24.99,
+      "estimatedDelivery": "1 business day"
+    }
+  ]
+  

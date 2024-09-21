@@ -1,0 +1,12 @@
+@media (min-width: 1280px) { /* Tailwind's xl breakpoint is 1280px */
+    .bgPositionXl {
+      background-position: 100% 70%;
+    }
+  }
+  
+  @media (max-width: 1279px) { /* Below xl breakpoint */
+    .bgPositionMobile {
+      background-position: center;
+    }
+  }
+  

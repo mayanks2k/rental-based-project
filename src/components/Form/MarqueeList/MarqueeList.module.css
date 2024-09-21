@@ -1,0 +1,6 @@
+/* MarqueeList.module.css */
+.text-gradient {
+  background: linear-gradient(to bottom, #179510, #78ca5c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

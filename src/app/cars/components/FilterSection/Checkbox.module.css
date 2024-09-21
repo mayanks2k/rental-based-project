@@ -1,0 +1,29 @@
+/* Checkbox.module.css */
+.checkboxGreen {
+  border: 2px solid #38a169; /* Tailwind's green-500 */
+  width: 16px;
+  height: 16px;
+  appearance: none; /* Remove default styling */
+  -webkit-appearance: none; /* Remove default styling for Safari */
+  border-radius: 3px; /* Optional: make it slightly rounded */
+  display: inline-block;
+  cursor: pointer;
+  position: relative; /* Required for the checkmark positioning */
+}
+
+.checkboxGreenChecked {
+  background-color: #38a169; /* Tailwind's green-500 */
+  border-color: #38a169;
+}
+
+.checkboxGreenChecked::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -60%) rotate(45deg);
+  width: 6px;
+  height: 12px;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+}

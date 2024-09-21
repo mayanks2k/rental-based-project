@@ -1,0 +1,28 @@
+[
+  {
+    "id": "sender1",
+    "name": "John Doe",
+    "companyName": "Company A",
+    "email": "john@example.com",
+    "phoneNumber1": "1234567890",
+    "phoneNumber2": "0987654321",
+    "address": "123 Main St",
+    "city": "New York",
+    "pinCode": "10001",
+    "houseNumber": "Apt 1",
+    "country": "United States"
+  },
+  {
+    "id": "sender2",
+    "name": "Jane Smith",
+    "companyName": "Company B",
+    "email": "jane@example.com",
+    "phoneNumber1": "1231231234",
+    "phoneNumber2": "4321432143",
+    "address": "456 Elm St",
+    "city": "Los Angeles",
+    "pinCode": "90001",
+    "houseNumber": "Suite 2",
+    "country": "United States"
+  }
+]
